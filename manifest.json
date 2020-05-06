@@ -1,0 +1,23 @@
+{
+	"name": "Edpuzzle+",
+	"author": "Peridax",
+	"short_name": "epp",
+	"description": "Edpuzzle extension, created to reveal all multiple choice answers on any Edpuzzle assignment.",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"permissions": ["https://edpuzzle.com/*", "tabs", "notifications"],
+	"browser_action": {"default_title": "Open Edpuzzle"},
+	"icons": {
+		"128": "assets/images/128.png",
+		"48": "assets/images/48.png",
+		"16": "assets/images/16.png"
+	},
+	"background": {
+		"scripts": ["assets/js/background.js"]
+	},
+	"content_scripts": [{
+		"matches": ["https://edpuzzle.com/*"],
+		"run_at": "document_idle",
+		"js": ["assets/js/jquery.js", "edpuzzle.js"]
+	}]
+}
