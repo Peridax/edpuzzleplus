@@ -4,6 +4,8 @@ A Edpuzzle extension that reveals the answer to every multiple choice question o
 ## Installation
 You have two options to install Edpuzzle+, either installing it through the chrome web store (RECOMMENDED) or installing it locally.
 
+![Edpuzzle+](https://i.imgur.com/24FdAvT.png)
+
 ### Installing it on the Chrome Web Store
 The first and most straight forward option is to install Edpuzzle+ on the chrome web store. This way, all updates made to Edpuzzle+ are automatically updated on your extension, and all you have to do is click one button.
 
