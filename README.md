@@ -10,7 +10,7 @@ You have two options to install Edpuzzle+, either installing it through the chro
 The first and most straight forward option is to install Edpuzzle+ on the chrome web store. This way, all updates made to Edpuzzle+ are automatically updated on your extension, and all you have to do is click one button.
 
 1. Make sure you have google chrome installed
-2. Click [here](https://chrome.google.com/webstore/detail/edpuzzle%2B/gkkdeienfnphnhkhineemgfapbjeakob) to go directly to the extension link on the chrome web store, or head to http://chrome.google.com/webstore and in the search bar, type "Edpuzzle+". Do not trust any other extension that claims to be "Edpuzzle+" if it is not made by Evandro902.
+2. Click [here](https://chrome.google.com/webstore/detail/edpuzzle%2B/gkkdeienfnphnhkhineemgfapbjeakob) to go directly to the extension link on the chrome web store, or head to http://chrome.google.com/webstore and in the search bar, type "Edpuzzle+". Do not trust any other extension that claims to be "Edpuzzle+" if it is not made by Peridax.
 3. Click the "Add to chrome" button, and that's it!
 
 ### Installing it locally
