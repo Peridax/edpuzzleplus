@@ -1,12 +1,13 @@
-# Edpuzzle+
+# Edpuzzle+ (broken)
+**Edpuzzle changed the API that Edpuzzle+ uses to fetch answers. After they updated it, it broke the extension. Edpuzzle+ does NOT work anymore.** <br />
 A Edpuzzle extension that reveals the answer to every multiple choice question on any assignment.
 
 ![Edpuzzle+](https://i.imgur.com/24FdAvT.png)
+### Installing it on the Chrome Web Store
 
 ## Installation
 You have two options to install Edpuzzle+, either installing it through the chrome web store (RECOMMENDED) or installing it locally.
 
-### Installing it on the Chrome Web Store
 The first and most straight forward option is to install Edpuzzle+ on the chrome web store. This way, all updates made to Edpuzzle+ are automatically updated on your extension, and all you have to do is click one button.
 
 1. Make sure you have google chrome installed
